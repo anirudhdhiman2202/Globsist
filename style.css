@@ -12,7 +12,7 @@ body {
 header.hero {
   background: url('https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
   color: #fff;
-  height: 88.6vh;
+  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
